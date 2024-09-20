@@ -1,6 +1,6 @@
 
 /**
- * Класс Laptop представляет собой модель ноутбука.
+ * Класс Laptop представляет модель ноутбука.
  */
 public class Laptop {
     private String model;
